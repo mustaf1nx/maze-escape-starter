@@ -109,12 +109,3 @@ Let `n` be the number of cells, `m` the number of maze walls or directed slides,
 - Iterative DFS completed on a randomly generated **1000 × 1000** maze without stack overflow.
 - `output/maze.png` and `output/maze.html` were successfully generated for ID `251755`.
 
-## Before submitting
-
-- [ ] Confirm the ID is correct and replace the name/group placeholders.
-- [ ] Re-run the generator and update this README if your ID is not `251755`.
-- [ ] Personally review, adapt and understand all Java code and README text; use the AI disclosure honestly.
-- [ ] Commit any personal changes, and push the repository (including the earlier mission commits) to your own public GitHub repository's `main` branch.
-- [ ] Check the repository includes `data/walls.txt`, `data/slides.txt`, and `output/maze.png`.
-- [ ] Run `java tools/Check.java` and open `output/maze.html`.
-- [ ] Submit the public GitHub link in Moodle before the deadline.
