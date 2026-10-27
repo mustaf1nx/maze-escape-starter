@@ -1,8 +1,8 @@
 # Assignment 3 — Maze Escape
 
 **Student ID:** `251755` (confirm that this matches your Moodle ID before submitting)  
-**Name:** [enter your name]  
-**Group:** Software Engineering 2510 (confirm)  
+**Name:** Azamat Mustafin
+**Group:** SE-2510
 **Maze size:** 9 × 10 = 90 cells  
 **Required language:** Java 17+ (checked with Java 21)  
 
